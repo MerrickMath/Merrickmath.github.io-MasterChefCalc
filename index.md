@@ -16,4 +16,6 @@ You will be given a score based on a 40 point scale marked on three categories:
 
 **GOOD LUCK**, Please *do not* put too many marshmallows in the microwave for too long.
 
-<iframe src="https://drive.google.com/file/d/1E3T25-3Uy4rBvck6k4NuuAfgNY9HRlTT/preview" width="640" height="480"></iframe>
+<p align="center">
+<iframe src="https://drive.google.com/file/d/1E3T25-3Uy4rBvck6k4NuuAfgNY9HRlTT/preview" width="100%" height="480"></iframe>
+</p>
