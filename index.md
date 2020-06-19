@@ -1,7 +1,7 @@
 
 ### The Challenge 
 
-Dr. Vince and Mr. Merrick are back, and hungry for more tasty integrals. You are asked to prepare a dish that resembles an approximation to the volume of a solid with 2D base and geometric cross sections (see <a href="https://drive.google.com/file/d/1E3T25-3Uy4rBvck6k4NuuAfgNY9HRlTT/view?usp=sharing"> Mr. Merrick's </a> and <a href="https://drive.google.com/file/d/1E3T25-3Uy4rBvck6k4NuuAfgNY9HRlTT/view?usp=sharing"> Dr. Vince's </a> submission for examples). You are also **required** to calculate the theoretical volume of your given solid using integration. 
+Dr. Vince and Mr. Merrick are back, and hungry for more tasty integrals. You are asked to prepare a dish that resembles an approximation to the volume of a solid with 2D base and geometric cross sections (see <a href="https://drive.google.com/file/d/1E3T25-3Uy4rBvck6k4NuuAfgNY9HRlTT/view?usp=sharing"> Mr. Merrick's </a> and <a href="https://drive.google.com/file/d/1RA8N-u8YP3sABtV0TOe5fhU1TZil57EW/view?usp=sharing"> Dr. Vince's </a> submission for examples). You are also **required** to calculate the theoretical volume of your given solid using integration. 
 
 If you are feeling dangerous you may also attempt cooking a dish that embodies an approximation to a solid of revolution (disks/shells). 
 
