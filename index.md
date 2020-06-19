@@ -1,17 +1,21 @@
 
 ### The Challenge 
-The Lego Group began manufacturing the interlocking toy bricks in 1949...
 
-This challenge involves examining a history of every lego set every created. Are there factors that influence the price of a lego set? Are more difficult sets more highly rated? For this challenge you will be using the lego dataset, which contains several variables: (test)
-* **Ages:** What age the set is intended for (e.g 12+) 
-* **Price:** The Price of a lego set 
-* **Pieces:** The number of pieces a set contains
-* **Difficulty:** How difficult the lego set is
-* **Nme:** The name of the lego set 
-* **Theme:** What the theme of the lego set it (e.g. Star Wars) 
+Dr. Vince and Mr. Merrick are back, and hungry for more tasty integrals. You are asked to prepare a dish that resembles an approximation to the volume of a solid with 2D base and geometric cross sections (see Dr. Vince's and Mr. Merrick's submission below for examples). You are also **required** to calculate the theoretical volume of your given solid using integration. 
+
+If you are feeling dangerous you may also attempt cooking a dish that embodies an approximation to a solid of revolution (disks/shells). 
+
+After completing your recipe, you are requested to share a 3-5 minute video with a taste test and thorough description. You are also encouraged to include your cooking performance, and tips and tricks within your video.
+
+You will be given a score based on a 40 point scale marked on three categories:
+* Portrayal of approximation method through your recipe and video description (10 points)
+* Beauty, style and performance of food and video (10 points)
+* Creativity (10 points)
+* Taste (judged purely on your reaction to first bite)
+
+
+**GOOD LUCK**, Please *do not* put too many marshmallows in the microwave for too long.
 
 <p align="center"> 
   <iframe src="https://www.youtube.com/embed/zCXMx7RcZ5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="frame"></iframe> </p>
-
-### Challenge submision
 
