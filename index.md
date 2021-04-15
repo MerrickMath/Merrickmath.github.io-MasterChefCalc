@@ -5,7 +5,7 @@ Dr. Vince and Mr. Merrick are back, and hungry for more tasty integrals. You are
 
 If you are feeling dangerous you may also attempt cooking a dish that embodies an approximation to a solid of revolution (disks/shells). 
 
-After completing your recipe, you are requested to share a 3-5 minute video with a taste test and thorough description. You are also encouraged to include your cooking performance, and tips and tricks within your video.
+After completing your recipe, you are requested to share a 3-5 minute video with a taste test and thorough description. You may use  <a href="https://drive.google.com/file/d/1lgmIvdLAB8bP-I9BFeY5zqiO0uGjhP0V/view?usp=sharing"> Dr. Vince's </a>, or  <a href="https://drive.google.com/file/d/1E3T25-3Uy4rBvck6k4NuuAfgNY9HRlTT/view?usp=sharing"> Mr. Merrick's </a> vidoes for referal. You are also encouraged to include your cooking performance, and tips and tricks within your video.
 
 You may work individually, or in teams of 2.
 
